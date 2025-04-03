@@ -1,0 +1,15 @@
+# SAM build artifacts
+.aws-sam/
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log
+*.log
+
+# VSCode settings
+.vscode/
+
+# OS-specific
+.DS_Store
